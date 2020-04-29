@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532098258 source:c:\cpp\inheritance1\main.cpp
+	<iostream>
+
+1532101308 source:c:\cpp\hierarchal 2-1\main.cpp
+	<iostream>
+	<stdio.h>
+
